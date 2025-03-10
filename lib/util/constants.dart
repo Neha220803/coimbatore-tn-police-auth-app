@@ -25,3 +25,7 @@ const Color lightMidnightBlue = Color(0xFF2A2E85);
 
 /// Light variant of Delft Blue for secondary container backgrounds
 const Color lightDelftBlue = Color(0xFF43417A);
+
+const Color primarycolor = Color(0xFF222671);
+
+const Color opaquePrimarycolor = Color.fromARGB(143, 34, 38, 113);

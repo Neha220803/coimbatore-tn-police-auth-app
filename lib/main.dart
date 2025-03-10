@@ -1,4 +1,4 @@
-import 'package:auth_tn/login_screen.dart';
+import 'package:auth_tn/screens/login_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {

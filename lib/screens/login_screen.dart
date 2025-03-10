@@ -1,5 +1,5 @@
-import 'package:auth_tn/constants.dart';
-import 'package:auth_tn/main_screen.dart';
+import 'package:auth_tn/util/constants.dart';
+import 'package:auth_tn/screens/main_screen.dart';
 import 'package:flutter/material.dart';
 
 class LoginPage extends StatefulWidget {
