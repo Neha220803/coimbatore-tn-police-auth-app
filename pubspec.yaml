@@ -1,0 +1,24 @@
+name: auth_tn
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  camera: ^0.11.1
+  flutter:
+    sdk: flutter
+  local_auth: ^2.3.0
+  mobile_scanner: ^6.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/

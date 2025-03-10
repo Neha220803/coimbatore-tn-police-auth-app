@@ -1,0 +1,2 @@
+D:/Neha/Hackathon/auth_tn/android/app/.cxx/RelWithDebInfo/4k5a7071/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Neha/Hackathon/auth_tn/android/app/.cxx/RelWithDebInfo/4k5a7071/armeabi-v7a/CMakeFiles/rebuild_cache.dir

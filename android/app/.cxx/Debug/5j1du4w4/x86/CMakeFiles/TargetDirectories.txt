@@ -1,0 +1,2 @@
+D:/Neha/Hackathon/auth_tn/android/app/.cxx/Debug/5j1du4w4/x86/CMakeFiles/edit_cache.dir
+D:/Neha/Hackathon/auth_tn/android/app/.cxx/Debug/5j1du4w4/x86/CMakeFiles/rebuild_cache.dir
